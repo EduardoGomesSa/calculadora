@@ -1,0 +1,6 @@
+table td{
+    padding: 20px;
+}
+table td:hover{
+    background-color: aquamarine;
+}
