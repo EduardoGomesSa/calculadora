@@ -1,5 +1,7 @@
+var num = 0;
 function calculadora(n){
-    mostrar(n)
+    num = num + n;
+    mostrar(num)
 }
 function mostrar(r){
     var visualizar = document.getElementById('resultado')
